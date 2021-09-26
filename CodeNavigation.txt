@@ -1,0 +1,40 @@
+Code Navigation Shortcuts
+
+Cmd + O : Open Class
+Cmd + Shift + O : Open File
+Cmd + Alt +O : Open Symbol
+Cmd + Shift + A : Open Action
+Shift + Shift : Search Everywhere
+Recent Files : Cmd + E
+Open URL Mapping :
+Cmd + [: Navigate -> Back
+Cmd + ]: Navigate -> Forward
+
+Cmd + Shift + \ : Navigate to URL Mapping
+
+F2: Next Highlighted Error in Class
+Shift + F2: Prev Highlighted Error in Class
+
+
+Alt + F1: Select In
+Cmd + Upper Arrow : Jump To Navigation Bar
+
+cmd + B : Declaration or Usage
+Alt + Cmd + B : Go to Implementation
+
+Shift + Cmd + B : Type Declaration
+
+Cmd + U : Upper Class
+
+
+
+Cmd + Shift + T : Go to Test Class
+
+File Structure : Cmd + F12
+
+Type Hierarchy: Ctrl+H
+Method Hierarchy: Cmd+ Shift + H
+Call Hierarchy: Alt + Ctrl + H
+
+
+
